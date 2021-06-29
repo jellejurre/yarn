@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3754 net/minecraft/world/gen/chunk/NoiseChunkGenerator
+CLASS net/minecraft/class_3754 net/minecraft/world/gen/NoiseChunkGenerator
 	FIELD field_16570 horizontalNoiseResolution I
 	FIELD field_16571 surfaceDepthNoise Lnet/minecraft/class_3757;
 	FIELD field_16572 verticalNoiseResolution I

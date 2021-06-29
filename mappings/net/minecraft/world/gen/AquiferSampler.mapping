@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6350 net/minecraft/world/gen/chunk/AquiferSampler
+CLASS net/minecraft/class_6350 net/minecraft/world/gen/AquiferSampler
 	METHOD method_33737 apply (Lnet/minecraft/class_5840;IIID)Lnet/minecraft/class_2680;
 		ARG 1 source
 		ARG 2 x

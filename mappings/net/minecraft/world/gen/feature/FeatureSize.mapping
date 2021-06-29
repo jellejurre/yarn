@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_5201 net/minecraft/world/gen/feature/size/FeatureSize
+CLASS net/minecraft/class_5201 net/minecraft/world/gen/feature/FeatureSize
 	COMMENT In charge of determining the amount of space needed by a tree to generate.
 	FIELD field_24146 minClippedHeight Ljava/util/OptionalInt;
 	FIELD field_24922 TYPE_CODEC Lcom/mojang/serialization/Codec;

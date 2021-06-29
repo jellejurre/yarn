@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_5314 net/minecraft/world/gen/chunk/StructureConfig
+CLASS net/minecraft/class_5314 net/minecraft/world/gen/StructureConfig
 	COMMENT Contains parameters for placement of a single type of {@link net.minecraft.world.gen.feature.StructureFeature} during chunk
 	COMMENT generation.
 	FIELD field_24917 CODEC Lcom/mojang/serialization/Codec;

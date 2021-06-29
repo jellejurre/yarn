@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_5204 net/minecraft/world/gen/feature/size/TwoLayersFeatureSize
+CLASS net/minecraft/class_5204 net/minecraft/world/gen/feature/TwoLayersFeatureSize
 	FIELD field_24155 limit I
 	FIELD field_24156 lowerSize I
 	FIELD field_24157 upperSize I

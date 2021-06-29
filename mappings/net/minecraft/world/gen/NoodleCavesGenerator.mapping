@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6358 net/minecraft/world/gen/chunk/NoodleCavesGenerator
+CLASS net/minecraft/class_6358 net/minecraft/world/gen/NoodleCavesGenerator
 	METHOD <init> (J)V
 		ARG 1 seed
 	METHOD method_36470 (DIIIDDDDI)D
