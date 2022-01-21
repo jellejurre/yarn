@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6576 net/minecraft/world/biome/source/util/TerrainNoisePoint
+CLASS net/minecraft/class_6576 net/minecraft/world/biome/source/TerrainNoisePoint
 	FIELD comp_77 offset D
 	FIELD comp_78 factor D
 	FIELD comp_79 peaks D

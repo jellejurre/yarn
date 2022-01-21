@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6554 net/minecraft/world/biome/source/util/VanillaBiomeParameters
+CLASS net/minecraft/class_6554 net/minecraft/world/biome/source/VanillaBiomeParameters
 	FIELD field_34504 DEFAULT_PARAMETER Lnet/minecraft/class_6544$class_6546;
 	FIELD field_34505 TEMPERATURE_PARAMETERS [Lnet/minecraft/class_6544$class_6546;
 	FIELD field_34506 HUMIDITY_PARAMETERS [Lnet/minecraft/class_6544$class_6546;

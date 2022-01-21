@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6765 net/minecraft/world/biome/source/util/VanillaTerrainParametersCreator
+CLASS net/minecraft/class_6765 net/minecraft/world/biome/source/VanillaTerrainParametersCreator
 	METHOD method_39421 createSurfaceParameters (Z)Lnet/minecraft/class_6555;
 		ARG 0 amplified
 	METHOD method_39422 createNetherParameters ()Lnet/minecraft/class_6555;

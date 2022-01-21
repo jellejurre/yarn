@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_5309 net/minecraft/world/gen/chunk/GenerationShapeConfig
+CLASS net/minecraft/class_5309 net/minecraft/world/gen/GenerationShapeConfig
 	FIELD comp_173 minimumY I
 	FIELD comp_174 height I
 	FIELD comp_175 sampling Lnet/minecraft/class_5308;

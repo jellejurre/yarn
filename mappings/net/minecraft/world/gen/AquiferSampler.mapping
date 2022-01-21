@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6350 net/minecraft/world/gen/chunk/AquiferSampler
+CLASS net/minecraft/class_6350 net/minecraft/world/gen/AquiferSampler
 	METHOD method_33742 needsFluidTick ()Z
 	METHOD method_36381 seaLevel (Lnet/minecraft/class_6350$class_6565;)Lnet/minecraft/class_6350;
 		ARG 0 fluidLevelSampler

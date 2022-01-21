@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6748 net/minecraft/world/gen/chunk/Blender
+CLASS net/minecraft/class_6748 net/minecraft/world/gen/Blender
 	FIELD field_35501 NO_BLENDING Lnet/minecraft/class_6748;
 	FIELD field_35508 chunkRegion Lnet/minecraft/class_3233;
 	METHOD <init> (Lnet/minecraft/class_3233;Ljava/util/List;Ljava/util/List;)V

@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3754 net/minecraft/world/gen/chunk/NoiseChunkGenerator
+CLASS net/minecraft/class_3754 net/minecraft/world/gen/NoiseChunkGenerator
 	FIELD field_16576 defaultBlock Lnet/minecraft/class_2680;
 	FIELD field_16648 AIR Lnet/minecraft/class_2680;
 	FIELD field_24773 CODEC Lcom/mojang/serialization/Codec;

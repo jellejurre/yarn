@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6555 net/minecraft/world/biome/source/util/VanillaTerrainParameters
+CLASS net/minecraft/class_6555 net/minecraft/world/biome/source/VanillaTerrainParameters
 	FIELD field_34528 offsetSpline Lnet/minecraft/class_6492;
 	FIELD field_34529 factorSpline Lnet/minecraft/class_6492;
 	FIELD field_34530 peakSpline Lnet/minecraft/class_6492;

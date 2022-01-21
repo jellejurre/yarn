@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6544 net/minecraft/world/biome/source/util/MultiNoiseUtil
+CLASS net/minecraft/class_6544 net/minecraft/world/biome/source/MultiNoiseUtil
 	FIELD field_34476 HYPERCUBE_DIMENSION I
 	METHOD method_38116 createNoiseValuePoint (FFFFFF)Lnet/minecraft/class_6544$class_6553;
 		ARG 0 temperatureNoise

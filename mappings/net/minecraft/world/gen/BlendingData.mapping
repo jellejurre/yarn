@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6749 net/minecraft/world/gen/chunk/BlendingData
+CLASS net/minecraft/class_6749 net/minecraft/world/gen/BlendingData
 	FIELD field_35515 OLD_HEIGHT_LIMIT Lnet/minecraft/class_5539;
 	FIELD field_35519 SURFACE_BLOCKS Ljava/util/List;
 	FIELD field_35682 CODEC Lcom/mojang/serialization/Codec;
