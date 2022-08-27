@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_2897 net/minecraft/world/gen/chunk/FlatChunkGenerator
+CLASS net/minecraft/class_2897 net/minecraft/world/gen/FlatChunkGenerator
 	FIELD field_24510 config Lnet/minecraft/class_3232;
 	FIELD field_24769 CODEC Lcom/mojang/serialization/Codec;
 	METHOD <init> (Lnet/minecraft/class_2378;Lnet/minecraft/class_3232;)V

@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_3229 net/minecraft/world/gen/chunk/FlatChunkGeneratorLayer
+CLASS net/minecraft/class_3229 net/minecraft/world/gen/FlatChunkGeneratorLayer
 	FIELD field_14028 thickness I
 	FIELD field_24974 CODEC Lcom/mojang/serialization/Codec;
 	FIELD field_29566 block Lnet/minecraft/class_2248;

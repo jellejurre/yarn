@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_6568 net/minecraft/world/gen/chunk/ChunkNoiseSampler
+CLASS net/minecraft/class_6568 net/minecraft/world/gen/ChunkNoiseSampler
 	FIELD field_34598 cellHeight I
 	FIELD field_34599 horizontalCellCount I
 	FIELD field_34600 minimumCellY I

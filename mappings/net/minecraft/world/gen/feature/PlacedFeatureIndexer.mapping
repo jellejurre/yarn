@@ -1,4 +1,4 @@
-CLASS net/minecraft/class_7510 net/minecraft/world/gen/feature/util/PlacedFeatureIndexer
+CLASS net/minecraft/class_7510 net/minecraft/world/gen/feature/PlacedFeatureIndexer
 	COMMENT A class for indexing placed features with a feature order cycle detection.
 	COMMENT
 	COMMENT <p>Placed features have the {@link net.minecraft.world.gen.GenerationStep.Feature
